@@ -3,8 +3,9 @@
 <p align="center">
   Desenvolvedor FullStack web| Typescript | React | Node Js | Ciência da Computação
 </p>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seuLinkedin](https://www.linkedin.com/in/jucelino-oliveira-4109a9229/))!]
----
+
+## 👨‍💻 Rede Sociais 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jucelino-oliveira-4109a9229/) 
 
 ## 👨‍💻 Sobre mim
 
