@@ -32,9 +32,9 @@ Busco oportunidades como **estagiário ou desenvolvedor júnior** para colocar t
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JucelinoHenrique&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JucelinoHenrique&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
