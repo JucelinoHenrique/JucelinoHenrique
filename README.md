@@ -3,7 +3,7 @@
 <p align="center">
   Desenvolvedor FullStack web| Typescript | React | Node Js | Ciência da Computação
 </p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seuLinkedin](https://www.linkedin.com/in/jucelino-oliveira-4109a9229/))  
 ---
 
 ## 👨‍💻 Sobre mim
@@ -22,13 +22,6 @@ Tenho interesse especial por **desenvolvimento web** e estou constantemente busc
 
 ---
 
-## 🚀 Em busca de
-
-Atualmente, estou focado em consolidar meus conhecimentos práticos e contribuir em projetos que desafiem minha lógica e capacidade de resolver problemas reais.  
-Busco oportunidades como **estagiário ou desenvolvedor júnior** para colocar tudo isso em prática e aprender com profissionais experientes.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -36,13 +29,6 @@ Busco oportunidades como **estagiário ou desenvolvedor júnior** para colocar t
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JucelinoHenrique&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
----
-
-## 🌎 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seuLinkedin](https://www.linkedin.com/in/jucelino-oliveira-4109a9229/))  
-
 
 ---
 
