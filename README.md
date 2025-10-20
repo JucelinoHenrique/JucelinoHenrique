@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** no **Instituto Federal do Pará (IFPA)**, atualmente no **4º semestre**.  
+Sou estudante de **Ciência da Computação** no **Instituto Federal do Pará (IFPA)**, atualmente no **5º semestre**.  
 Tenho interesse especial por **desenvolvimento web** e estou constantemente buscando evoluir minhas habilidades práticas por meio de projetos, estudos e desafios.
 
 ---
